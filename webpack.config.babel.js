@@ -23,9 +23,8 @@ export default {
     library: 'GrommetIcons',
   },
   externals: {
-    'react': 'React',
+    react: 'React',
     'react-dom': 'ReactDOM',
-    'styled-components': 'styled',
   },
   resolve: {
     extensions: ['.js', '.json'],
